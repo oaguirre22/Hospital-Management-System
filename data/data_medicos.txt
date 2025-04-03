@@ -1,0 +1,10 @@
+20010|Médico 10|Especialidad 2
+20002|Médico 2|Especialidad 3
+20003|Médico 3|Especialidad 1
+20006|Médico 6|Especialidad 1
+20009|Médico 9|Especialidad 1
+20008|Médico 8|Especialidad 3
+20005|Médico 5|Especialidad 3
+20007|Médico 7|Especialidad 2
+20001|Médico 1|Especialidad 2
+20004|Médico 4|Especialidad 2

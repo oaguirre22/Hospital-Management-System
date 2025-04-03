@@ -1,0 +1,17 @@
+name: gestion_hospitalaria
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2024.11.26
+  - openssl=3.0.15
+  - pip=24.2
+  - python=3.9.20
+  - setuptools=75.1.0
+  - sqlite=3.45.3
+  - tzdata=2024b
+  - vc=14.40
+  - vs2015_runtime=14.42.34433
+  - wheel=0.44.0
+  - pip:
+      - colorama==0.4.6
+prefix: C:\Users\oeagu\anaconda3\envs\gestion_hospitalaria
